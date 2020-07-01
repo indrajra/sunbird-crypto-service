@@ -10,7 +10,7 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 
-		String str="nirmalkar.satish@gmail.com";
+		String str="nsddsdtish@gmail.com";
 		EncryptionService encryptionService = ServiceFactory.getEncryptionServiceInstance(null);
 		DecryptionService decryptionService = ServiceFactory.getDecryptionServiceInstance(null);
 		DataMaskingService maskingService = ServiceFactory.getMaskingServiceInstance(null);

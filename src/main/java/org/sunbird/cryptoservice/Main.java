@@ -1,4 +1,4 @@
-package com.sunbird.cryptoservice;
+package org.sunbird.cryptoservice;
 
 import org.sunbird.cryptoservice.service.DataMaskingService;
 import org.sunbird.cryptoservice.service.DecryptionService;
